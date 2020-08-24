@@ -33,11 +33,9 @@ p {
 
 .before img {
   object-fit: cover;
-  height: auto;
-  justify-content: center;
   display: block;
-  margin-left: 320px;
-  margin-right: 320px;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
 }
 
