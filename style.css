@@ -38,6 +38,7 @@ p {
   display: block;
   margin-left: 320px;
   margin-right: 320px;
+  width: 50%;
 }
 
 .p-1, .p-2 {
