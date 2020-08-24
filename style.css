@@ -30,6 +30,10 @@ h2, p {
 .before img {
   object-fit: cover;
   height: auto;
+  justify-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .p-1, .p-2 {
