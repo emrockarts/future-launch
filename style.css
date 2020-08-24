@@ -38,7 +38,7 @@ h2, p {
   margin: auto;
   width: 60%;
   text-indent: 50px;
-  padding: 20px;
+  padding: 15px;
 }
 
 .skillset {
@@ -55,5 +55,5 @@ a {
 }
 
 .sign-off {
-  padding: 20px 0px;
+  padding: 10px 0px;
 }
